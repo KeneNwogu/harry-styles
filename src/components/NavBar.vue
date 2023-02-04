@@ -27,17 +27,17 @@
 </template>
 
 <style scoped>
-nav{
+/* nav{
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
-}
+} */
 nav .container{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    width: 90%;
+    width: 95%;
     margin: 0 auto;
 }
 

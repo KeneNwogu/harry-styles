@@ -1,5 +1,6 @@
 body{
     margin: 0;
+    padding:0;
     box-sizing: border-box;
     font-family: Raleway;
 }
@@ -7,4 +8,8 @@ body{
 @font-face {
     font-family: Raleway;
     src: url("../fonts/raleway/Raleway-VariableFont_wght.ttf");
+}
+
+ul{
+    list-style: none;
 }
